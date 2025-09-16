@@ -12,27 +12,27 @@ print("4. Benefits of AI ")
 print("5. Misconceptions over AI ")
 print("6. Exit conversation/ no more questions! ") 
 
-user_options = int(input("Enter an option number: ")
+user_options = int(input("Enter an option number: "))
 
 if user_options == 1:
   print(" Info about AI")
-  user_options = int(input("Have another questio! Enter an option number: ")
+  user_options = int(input("Have another questio! Enter an option number: "))
   
 if user_options == 2:
   print(" Info about AI consequences")
-  user_options = int(input("Have another questio! Enter an option number: ")
+  user_options = int(input("Have another questio! Enter an option number: "))
   
 if user_options == 3:
   print(" Info about AI")
-  user_options = int(input("Have another questio! Enter an option number: ")
+  user_options = int(input("Have another questio! Enter an option number: "))
   
 if user_options == 4:
   print(" Positive Info About AI ")
-  user_options = int(input("Have another questio! Enter an option number: ")
+  user_options = int(input("Have another questio! Enter an option number: "))
   
 if user_options == 5:
   print(" Misconceptions over AI")
-  user_options = int(input("Have another questio! Enter an option number: ")
+  user_options = int(input("Have another questio! Enter an option number: "))
   
 if user_options == 6:
   print(" GoodBye " + first_name+ "! Hope you have a great day!")
@@ -40,7 +40,7 @@ if user_options == 6:
 
 else:
 print("Invalid! Try again")
-user_options = int(input("Enter an option number: ")
+user_options = int(input("Enter an option number: "))
 
 
 
