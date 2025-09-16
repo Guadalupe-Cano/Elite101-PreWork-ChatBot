@@ -1,6 +1,6 @@
 print("Welcome to Elite101 Chat Bot!")
 first_name = input("Please enter your first name: ")
-last_name = input("Please enter your last name: )
+last_name = input("Please enter your last name: ")
 user_age = int(input("Pleasure to meet you " + first_name + "! How old are you? "))
 print("WoW you're "+ user_age +" years old! Welcome! How can I assist you today? ")
 
